@@ -9,4 +9,4 @@ Siddiqui, Muhammad Kashan. et al. “Phonocardiogram Classification Based on Fea
 
 Software Repository: 
 
-Siddiqui, Muhammad Kashan (2026). Phonocardiogram Classification Based on GeMAPS Features (Version 1.0) [Computer software]. Zenodo. https://doi.org/xxxxxxxxxx
+Siddiqui, Muhammad Kashan (2026). Phonocardiogram Classification Based on GeMAPS Features (v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23501107
