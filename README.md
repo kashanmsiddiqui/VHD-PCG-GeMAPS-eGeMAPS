@@ -4,7 +4,9 @@ This repository contains the MATLAB scripts and supporting codes used in the res
 If you use whole or part(s) of these scripts/codes in your research, please cite both the associated manuscript and the software repository, as follows:-
 
 Manuscript: 
+
 Siddiqui, Muhammad Kashan. et al. “Phonocardiogram Classification Based on Features from the Geneva Minimalistic Acoustic Parameter Set." Scientific Reports (under review)
 
 Software Repository: 
+
 Siddiqui, Muhammad Kashan (2026). Phonocardiogram Classification Based on GeMAPS Features (Version 1.0) [Computer software]. Zenodo. https://doi.org/xxxxxxxxxx
